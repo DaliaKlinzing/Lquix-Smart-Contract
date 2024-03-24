@@ -51,8 +51,6 @@ You can interact with the contract using [Truffle console](https://www.trufflesu
 
 Feel free to fork the repository and submit pull requests with improvements or extensions to the contract functionalities.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
